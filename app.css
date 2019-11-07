@@ -1,0 +1,68 @@
+{
+  html {
+    background-color: #222;
+  }
+  a {
+    color: #fff;
+  }
+  .g-o-category-title {
+    color: #fff;
+  }
+  .m-wysiwyg-caption {
+    color: #fff;
+  }
+  .article__authors {
+    color: #fff;
+  }
+  .article__black-photoreport-image__title {
+    color: #fff;
+  }
+  .article__header__title {
+    color: #fff;
+  }
+  .article__inline-material__title {
+    background: #222!important;
+    color: #fff!important
+  }
+  .article__inline-table__main-link {
+    color: #fff!important;
+  }
+  .article__inline-video__info {
+    color: #fff;
+  }
+  .article__main-image__title {
+    color: #fff;
+  }
+  .article__note {
+    background: #222;
+    color: #fff!important;
+  }
+  .article__photoreport__title {
+    color: #fff!important
+  }
+  .article__picture__title a {
+    color: #fff;
+  }
+  .article__poll {
+    color: #fff;
+  }
+  .article__text container {
+    background: #222;
+    color: #fff!important;
+  }
+  .article__subheader {
+    color: #fff;
+  }
+  .article__text a {
+    color: #fff;
+  }
+  .article__text__subtitle {
+    color: #fff;
+  }
+  .article__poll__form__button {
+    color: #222;
+  }
+  .article__text {
+    color: #fff;
+  }
+}
